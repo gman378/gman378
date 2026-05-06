@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Olá, me chamo Derek.</h1>
+
+Eu estudo **C** e **C++**. Sou apaixonado por todos os tipos de tecnologia. Cursando comércio: IFAC.
 
 <!--
 **gman378/gman378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
